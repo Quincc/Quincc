@@ -51,3 +51,5 @@ Client-Server App(WPF, MVVM, NLog, .NetFramework, .Net 6.0) - https://github.com
 Graphical application with threads(.Net, Threading, WinForms, Drawing) - https://github.com/Quincc/ThreadGame
 Automated system for data generation(Python, PostgreSQL, MySQL, Apache Airflow) - https://github.com/Quincc/PyDataOps
 FastAPI Task & URL Manager(Python, FastAPI, Docker, SQLite) - https://github.com/Quincc/FastAPI
+
+---
