@@ -12,12 +12,15 @@
 
 Средний уровень:
 - C#
-- Python 
+- Python
+
 Базовый уровень:
 - С++
 - PostgreSQL
 - MySQL
 - Docker
+
+---
 
 ### Soft skills
 - Аналитическое мышление
