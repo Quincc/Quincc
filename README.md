@@ -49,4 +49,5 @@ GitHub Projects:
 Графическое приложение для организации заказов(My SQL, .Net Framework, WinForms) - https://github.com/Quincc/EvrazPromGroup
 Client-Server App(WPF, MVVM, NLog, .NetFramework, .Net 6.0) - https://github.com/Quincc/Chat_App
 Graphical application with threads(.Net, Threading, WinForms, Drawing) - https://github.com/Quincc/ThreadGame
-Game Snake(.Net, WPF) - https://github.com/Quincc/Snake_Game
+Automated system for data generation(Python, PostgreSQL, MySQL, Apache Airflow) - https://github.com/Quincc/PyDataOps
+FastAPI Task & URL Manager(Python, FastAPI, Docker, SQLite) - https://github.com/Quincc/FastAPI
