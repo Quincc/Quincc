@@ -45,7 +45,7 @@
 
 ## Ссылки на проекты
 
-GitHub Projects: 
+GitHub Projects: .
 Графическое приложение для организации заказов(My SQL, .Net Framework, WinForms) - https://github.com/Quincc/EvrazPromGroup
 Client-Server App(WPF, MVVM, NLog, .NetFramework, .Net 6.0) - https://github.com/Quincc/Chat_App
 Graphical application with threads(.Net, Threading, WinForms, Drawing) - https://github.com/Quincc/ThreadGame
