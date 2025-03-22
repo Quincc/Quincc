@@ -1,7 +1,7 @@
 # Головченко Максим Сергеевич
 
 **Контактная информация:**  
-- Email: maskim.tradeof@gmail.com  
+- Email: maksim.golovchenko@gmail.com 
 - Желаемая должность: Software Engineer  
 
 ---
@@ -45,11 +45,11 @@
 
 ## Ссылки на проекты
 
-GitHub Projects: .
-Графическое приложение для организации заказов(My SQL, .Net Framework, WinForms) - https://github.com/Quincc/EvrazPromGroup
-Client-Server App(WPF, MVVM, NLog, .NetFramework, .Net 6.0) - https://github.com/Quincc/Chat_App
-Graphical application with threads(.Net, Threading, WinForms, Drawing) - https://github.com/Quincc/ThreadGame
-Automated system for data generation(Python, PostgreSQL, MySQL, Apache Airflow) - https://github.com/Quincc/PyDataOps
-FastAPI Task & URL Manager(Python, FastAPI, Docker, SQLite) - https://github.com/Quincc/FastAPI
-
+GitHub Projects: 
+- Графическое приложение для организации заказов(My SQL, .Net Framework, WinForms) - https://github.com/Quincc/EvrazPromGroup 
+- Client-Server App(WPF, MVVM, NLog, .NetFramework, .Net 6.0) - https://github.com/Quincc/Chat_App 
+- Graphical application with threads(.Net, Threading, WinForms, Drawing) - https://github.com/Quincc/ThreadGame 
+- Automated system for data generation(Python, PostgreSQL, MySQL, Apache Airflow) - https://github.com/Quincc/PyDataOps 
+- FastAPI Task & URL Manager(Python, FastAPI, Docker, SQLite) - https://github.com/Quincc/FastAPI 
+- Replication Data(Python, Apache Airflow, PostgreSQL, MongoDB, ETL) - https://github.com/Quincc/AirSyncAnalytics
 ---
